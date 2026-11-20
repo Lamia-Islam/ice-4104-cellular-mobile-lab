@@ -1,0 +1,11 @@
+Eb/N0= 0 dB  bits=  4200  BER=3.629e-01  errors=1524
+Eb/N0= 1 dB  bits=  4200  BER=2.862e-01  errors=1202
+Eb/N0= 2 dB  bits=  4200  BER=2.576e-01  errors=1082
+Eb/N0= 3 dB  bits=  4200  BER=1.869e-01  errors=785
+Eb/N0= 4 dB  bits=  6400  BER=1.364e-01  errors=873
+Eb/N0= 5 dB  bits= 12800  BER=7.000e-02  errors=896
+Eb/N0= 6 dB  bits= 21600  BER=3.690e-02  errors=797
+Eb/N0= 7 dB  bits= 21600  BER=1.153e-02  errors=249
+Eb/N0= 8 dB  bits= 45600  BER=3.268e-03  errors=149
+Eb/N0= 9 dB  bits= 59400  BER=1.145e-03  errors=68
+Eb/N0=10 dB  bits= 73500  BER=1.361e-04  errors=10

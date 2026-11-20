@@ -1,0 +1,53 @@
+clc; clear; close all;
+
+digits = cell(1,5);
+
+digits{1} = [0 0 1 0 0;
+             0 0 1 0 0;
+             1 0 1 0 0;
+             0 0 1 0 0;
+             0 0 1 0 0];
+
+digits{2} = [1 1 1 1 0;
+             0 0 0 0 1;
+             1 1 1 1 0;
+             1 0 0 0 0;
+             1 1 1 1 1];
+
+digits{3} = [1 1 1 1 0;
+             0 0 0 0 1;
+             0 0 1 1 0;
+             0 0 0 0 1;
+             1 1 1 1 0];
+
+digits{4} = [1 0 0 1 0;
+             1 0 0 1 0;
+             1 1 1 1 1;
+             0 0 0 1 0;
+             0 0 0 1 0];
+
+digits{5} = [1 1 1 1 1;
+             1 0 0 0 0;
+             1 1 1 1 0;
+             0 0 0 0 1;
+             1 1 1 1 0];
+
+n = input('Enter digit (1 to 5): ');
+
+if n >= 1 && n <= 5
+
+    img = digits{n};
+
+    figure;
+
+    imagesc(img);
+
+    %% 🔥 KEY CHANGE HERE
+    colormap(flipud(gray));   % black background, white digit
+
+    axis equal tight off;
+
+    title(['Digit: ', num2str(n)], 'FontSize', 14);
+    
+
+end

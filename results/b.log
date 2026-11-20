@@ -1,0 +1,22 @@
+AWGN     Eb/N0= 0 dB  bits=  2400  BER=2.004e-01  errors=481
+AWGN     Eb/N0= 1 dB  bits=  2400  BER=1.233e-01  errors=296
+AWGN     Eb/N0= 2 dB  bits=  2400  BER=8.792e-02  errors=211
+AWGN     Eb/N0= 3 dB  bits=  2400  BER=3.875e-02  errors=93
+AWGN     Eb/N0= 4 dB  bits=  5200  BER=1.308e-02  errors=68
+AWGN     Eb/N0= 5 dB  bits=  5200  BER=3.269e-03  errors=17
+AWGN     Eb/N0= 6 dB  bits= 19000  BER=5.789e-04  errors=11
+AWGN     Eb/N0= 7 dB  bits= 19000  BER=1.579e-04  errors=3
+AWGN     Eb/N0= 8 dB  bits= 43500  BER=2.299e-05  errors=0
+AWGN     Eb/N0= 9 dB  bits= 58500  BER=1.709e-05  errors=0
+AWGN     Eb/N0=10 dB  bits= 75000  BER=1.333e-05  errors=0
+RAYLEIGH Eb/N0= 0 dB  bits=  2400  BER=3.133e-01  errors=752
+RAYLEIGH Eb/N0= 1 dB  bits=  2400  BER=2.592e-01  errors=622
+RAYLEIGH Eb/N0= 2 dB  bits=  2400  BER=2.387e-01  errors=573
+RAYLEIGH Eb/N0= 3 dB  bits=  2400  BER=1.638e-01  errors=393
+RAYLEIGH Eb/N0= 4 dB  bits=  5200  BER=1.308e-01  errors=680
+RAYLEIGH Eb/N0= 5 dB  bits=  5200  BER=9.173e-02  errors=477
+RAYLEIGH Eb/N0= 6 dB  bits= 19000  BER=4.932e-02  errors=937
+RAYLEIGH Eb/N0= 7 dB  bits= 19000  BER=3.916e-02  errors=744
+RAYLEIGH Eb/N0= 8 dB  bits= 43500  BER=1.952e-02  errors=849
+RAYLEIGH Eb/N0= 9 dB  bits= 58500  BER=1.123e-02  errors=657
+RAYLEIGH Eb/N0=10 dB  bits= 75000  BER=5.853e-03  errors=439
